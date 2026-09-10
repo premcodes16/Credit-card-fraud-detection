@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection
+🔗 **Live Demo:** [Click here to test the live web app](https://credit-card-fraud-detection-hsb2urubei95jabnasky8q.streamlit.app)
 An end-to-end Machine Learning pipeline addressing severe class imbalance (0.17% fraud rate) to detect fraudulent financial transactions.
 
 ## Pipeline Architecture
